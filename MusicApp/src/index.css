@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: rgb(13, 17, 60);
+  background-color: rgb(231, 232, 245);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -66,4 +66,14 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+p {
+  color: #213547;
+}
+li {
+  color: #213547;
+}
+h4 {
+  color: #213547;
 }
